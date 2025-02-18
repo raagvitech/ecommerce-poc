@@ -6,7 +6,7 @@ import StoreProvider from "@/store/storeProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Rapid Mart",
+  title: "Ecommerce",
   description: "A quick-commerce, e-commerce, online, delivery service",
 };
 
