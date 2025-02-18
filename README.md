@@ -42,7 +42,7 @@ cd ecommerce-poc
 npm install
 ```
 
-### 5. Set up environment variables. Create a `.env.local` file in the root of your project and add the necessary configurations:
+### 5. Set up environment variables. Create a `.env` file in the root of your project and add the necessary configurations:
 
 ```bash
     MONGO_URI= "mongodb+srv://sbhuvan455:gaiDu4VOoQtHTOID@cluster0.ihlpogh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
