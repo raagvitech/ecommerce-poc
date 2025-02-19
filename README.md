@@ -65,3 +65,5 @@ npm run dev
 
 ### 8. If you encounter any errors related to the MongoDB connection, change the DNS by following the link below.
 https://www.hellotech.com/guide/for/how-to-change-dns-server-windows-mac#:~:text=Windows%2010%20Computer-,To%[…]20following%20DNS%20server%20address
+
+### 9. For Stripe payments, use the card number 4242 4242 4242 4242, expiration date 11/29 (MM/YY), and CVV 123.
