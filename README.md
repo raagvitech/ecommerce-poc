@@ -1,7 +1,7 @@
 
 # Ecommerce - Quick Commerce Website
 
-RapidMart is a full-stack quick commerce platform designed to provide a seamless online shopping experience. The website is built using modern technologies like Next.js, shadcn component library, MongoDB, Firebase, and Stripe for handling payments.
+Ecommerce is a full-stack quick commerce platform designed to provide a seamless online shopping experience. The website is built using modern technologies like Next.js, shadcn component library, MongoDB, Firebase, and Stripe for handling payments.
 
 ## Ecommerce
 - **Product Browsing**: Users can easily explore products categorized for quick navigation.
