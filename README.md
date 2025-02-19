@@ -1,9 +1,9 @@
 
-# RapidMart - Quick Commerce Website
+# Ecommerce - Quick Commerce Website
 
-RapidMart is a full-stack quick commerce platform designed to provide a seamless online shopping experience. The website is built using modern technologies like Next.js, shadcn component library, MongoDB, Firebase, and Stripe for handling payments.
+Ecommerce is a full-stack quick commerce platform designed to provide a seamless online shopping experience. The website is built using modern technologies like Next.js, shadcn component library, MongoDB, Firebase, and Stripe for handling payments.
 
-## Features
+## Ecommerce
 - **Product Browsing**: Users can easily explore products categorized for quick navigation.
 - **User Authentication**: Secure login and registration.
 - **Payment Integration**: Stripe handles secure and reliable payments.
@@ -25,15 +25,15 @@ RapidMart is a full-stack quick commerce platform designed to provide a seamless
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/raagvitech/rapidmart.git
+git clone  https://github.com/raagvitech/ecommerce-poc.git
 ```
 
-### 2. Navigate to the rapid-mart remote repository from the VS code in left bottom corner.
+### 2. Change the repositary from main to  master remote repository at the bottom left corner from the VS code.
 
 ### 3. Navigate to the project directory:
 
 ```bash
-cd rapidmart
+cd ecommerce-poc
 ```
 
 ### 4. Install dependencies:
@@ -42,7 +42,7 @@ cd rapidmart
 npm install
 ```
 
-### 5. Set up environment variables. Create a `.env.local` file in the root of your project and add the necessary configurations:
+### 5. Set up environment variables. Create a `.env` file in the root of your project and add the necessary configurations:
 
 ```bash
     MONGO_URI= "mongodb+srv://sbhuvan455:gaiDu4VOoQtHTOID@cluster0.ihlpogh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
@@ -63,5 +63,5 @@ npm run dev
 
 ### 7. Visit the application at [http://localhost:3000](http://localhost:3000).
 
-### 8. If you find any troubleshoot errors related to mongobd connection change the dns by following the below link
+### 8. If you encounter any errors related to the MongoDB connection, change the DNS by following the link below.
 https://www.hellotech.com/guide/for/how-to-change-dns-server-windows-mac#:~:text=Windows%2010%20Computer-,To%[…]20following%20DNS%20server%20address
